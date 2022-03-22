@@ -20,11 +20,12 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CA4EBA1D-DDCD-49AE-8EA6-3489785D391C}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		ggrgrcs.cs = ggrgrcs.cs
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenerateExcelFileOperations", "GenerateExcelFileOperations\GenerateExcelFileOperations.csproj", "{9B90F0E2-6597-4761-BDA0-AA110443C037}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ghbh", "ghbh\ghbh.csproj", "{E7D9999F-4FC3-46E1-AB6D-99FCF498D4AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ghbh", "ghbh\ghbh.csproj", "{E7D9999F-4FC3-46E1-AB6D-99FCF498D4AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
